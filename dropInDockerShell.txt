@@ -1,0 +1,5 @@
+COMMAND
+sudo docker exec -it CONTAINERNAME bash
+
+DESCRIPTION
+allows you to enter the shell of your choosing in a docker container
